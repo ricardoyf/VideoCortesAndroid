@@ -1,3 +1,11 @@
+<!-- app-release:start -->
+[**Descargar APK actual v1.12**](https://github.com/ricardoyf/VideoCortesAndroid/releases/download/v1.12/VideoCortes-v1.12.apk) · [SHA-256](https://github.com/ricardoyf/VideoCortesAndroid/releases/download/v1.12/VideoCortes-v1.12.apk.sha256)
+
+Versión objetivo conservada: [v1.11](https://github.com/ricardoyf/VideoCortesAndroid/releases/tag/v1.11).
+
+`49fdc4010c46430965fc7c50326755684338a3c61b25e0ddb9305982fb795077`
+<!-- app-release:end -->
+
 # VideoCortes
 
 APK Android para recortar videos con flujo rapido tipo LosslessCut:
