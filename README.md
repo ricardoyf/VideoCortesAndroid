@@ -1,5 +1,5 @@
 <!-- app-release:start -->
-[**Descargar APK actual v1.12**](https://github.com/ricardoyf/VideoCortesAndroid/releases/download/v1.12/VideoCortes-v1.12.apk) · [SHA-256](https://github.com/ricardoyf/VideoCortesAndroid/releases/download/v1.12/VideoCortes-v1.12.apk.sha256)
+[**Descargar APK actual v1.12**](https://github.com/ricardoyf/VideoCortesAndroid/raw/refs/tags/v1.12/release-artifacts/v1.12/VideoCortes-v1.12.apk) · [SHA-256](https://github.com/ricardoyf/VideoCortesAndroid/raw/refs/tags/v1.12/release-artifacts/v1.12/VideoCortes-v1.12.apk.sha256)
 
 Versión objetivo conservada: [v1.11](https://github.com/ricardoyf/VideoCortesAndroid/releases/tag/v1.11).
 
